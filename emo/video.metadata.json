@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"emo.video"},{"v":1,"unique":true,"key":{"videoId":1},"name":"videoId_1","ns":"emo.video","sparse":true}]}
